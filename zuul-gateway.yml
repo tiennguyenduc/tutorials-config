@@ -1,0 +1,4 @@
+message = Hello world!!!
+cronExp = 0 */5 * * * *
+user.role = user
+user.password = qwerty
